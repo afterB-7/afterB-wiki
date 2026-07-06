@@ -1,0 +1,37 @@
+site_name: Union Arena Wiki (EN Translation)
+site_description: Fan translation and reference wiki for the Union Arena card game
+site_url: https://YOUR-USERNAME.github.io/union-arena-wiki/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - How to Play: getting-started/how-to-play.md
+      - Glossary: getting-started/glossary.md
+  - Card Database:
+      - Overview: cards/index.md
+  - About: about.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
