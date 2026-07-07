@@ -15,4 +15,5 @@ This is a fan-made English translation and reference wiki for the Union Arena ca
 
 ## Disclaimer
 
+
 This is an unofficial, non-commercial fan project. Union Arena, its logo, card names, and artwork are trademarks/copyright of their respective owners. No affiliation is claimed or implied.

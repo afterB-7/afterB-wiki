@@ -23,12 +23,12 @@ theme:
 
 nav:
   - Home: index.md
-  - Getting Started:
-      - How to Play: getting-started/how-to-play.md
-      - Glossary: getting-started/glossary.md
+#  - Getting Started:
+#      - How to Play: getting-started/how-to-play.md
+#      - Glossary: getting-started/glossary.md
   - Card Database:
       - Overview: cards/index.md
-  - About: about.md
+#  - About: about.md
 
 markdown_extensions:
   - admonition

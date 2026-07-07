@@ -1,16 +1,11 @@
-# Union Arena Wiki (English Translation)
+# UAfterB
 
-Welcome! This site is an unofficial fan translation and reference wiki for the **Union Arena** card game.
+สวัสดีครับ นี่เป็นที่เก็บที่แปลการ์ด Fan Translation ของเกม Union Arena ของผม afterB
 
-## What you'll find here
+## มีอะไรที่นี่?
 
-- **Getting Started** — rules basics and a glossary of translated terms
-- **Card Database** — translated card text, organized by set (searchable/filterable browsing coming in a future update)
-- **About** — project background, scope, and disclaimers
-
-## Status
-
-This wiki is a work in progress. Content is being added set by set. Check back for updates.
+- **เริ่มเล่น Union Arena** — เดี๋ยวมาทำ
+- **ข้อมูลการ์ดแปลไทย** — ทำอยู่
 
 !!! note "Fan project disclaimer"
     This is an unofficial, non-commercial fan translation project. Union Arena and all associated card names, artwork, and trademarks belong to their respective owners.
