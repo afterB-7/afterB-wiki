@@ -1,11 +1,12 @@
-# UAfterB
+# afterB-wiki
 
-สวัสดีครับ นี่เป็นที่เก็บที่แปลการ์ด Fan Translation ของเกม Union Arena ของผม afterB
+ที่เก็บคำแปลการ์ด Fan Translation ของ afterB
 
 ## มีอะไรที่นี่?
 
-- **เริ่มเล่น Union Arena** — เดี๋ยวมาทำ
-- **ข้อมูลการ์ดแปลไทย** — ทำอยู่
+- **ข้อมูลการ์ด Union Arena** — WIP
+- **ข้อมูลการ์ด Gundam Card Game** — Coming Soon
+- **ข้อมูลการ์ด Digimon Card Game** — Coming Soon
 
 !!! note "Fan project disclaimer"
     This is an unofficial, non-commercial fan translation project. Union Arena and all associated card names, artwork, and trademarks belong to their respective owners.

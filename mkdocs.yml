@@ -1,6 +1,6 @@
-site_name: Union Arena Wiki (EN Translation)
-site_description: Fan translation and reference wiki for the Union Arena card game
-site_url: https://afterB-7.github.io/union-arena-wiki/
+site_name: afterB-wiki
+site_description: ที่เก็บการ์ดแปลของ afterB
+site_url: https://afterB-7.github.io/afterB-wiki/
 
 theme:
   name: material
@@ -26,13 +26,19 @@ nav:
 #  - Getting Started:
 #      - How to Play: getting-started/how-to-play.md
 #      - Glossary: getting-started/glossary.md
-  - Card Database:
+  - UA Cards DB:
       - Overview: cards/index.md
-      - CGH: cards/cgh.md
+      - CGH: 
+          - Overview: cards/cgh/cgh.md
+          - UA01ST: cards/cgh/UA01ST.md
 #  - About: about.md
 
 markdown_extensions:
   - admonition
   - tables
+  - md_in_html
   - toc:
       permalink: true
+
+extra_css:
+  - stylesheets/extra.css
