@@ -32,6 +32,8 @@ nav:
           - All: cards/cgh/cgh.md
           - UA01ST: cards/cgh/UA01ST.md
           - UA01BT: cards/cgh/UA01BT.md
+          - EX02BT: cards/cgh/EX02BT.md
+          - UAPR: cards/cgh/UAPR.md
       - JJK: 
           - All: cards/jjk/jjk.md
           - UA02ST: cards/jjk/UA02ST.md

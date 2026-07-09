@@ -11,7 +11,10 @@
 
     const tocListEl = document.getElementById("toc-list");
     const setPrefixEl = document.getElementById("set-prefix");
+    const seriesCodeEl = document.getElementById("series-code");
+
     const setPrefix = setPrefixEl ? setPrefixEl.textContent.trim() + "/" : "";
+    const seriesCode = seriesCodeEl ? seriesCodeEl.textContent.trim() : "";
 
     Papa.parse(CSV_URL, {
       download: true,
@@ -20,7 +23,14 @@
         cardListEl.innerHTML = "";
         if (tocListEl) tocListEl.innerHTML = "";
 
-        const filtered = results.data.filter(card => card.code && card.code.startsWith(setPrefix));
+        const filtered = results.data.filter(card => {
+          if (!card.code || !card.code.startsWith(setPrefix)) return false;
+          if (seriesCode) {
+            const afterSlash = card.code.slice(setPrefix.length); // e.g. "CGH-P-001"
+            return afterSlash.startsWith(seriesCode + "-");
+          }
+          return true; // no series-code filter needed, e.g. normal single-series sets
+        });
 
         filtered.forEach(card => {
           const anchorId = slugify(card.code);
@@ -30,7 +40,7 @@
             <h3 id="${anchorId}">${card.code} ${card.name}</h3>
             <div class="card-entry">
               <img src="${imageUrl}" alt="${card.name}">
-                <div class="card-info-grid">
+              <div class="card-info-grid">
                 <div class="label">รหัส</div><div class="value">${card.code}</div>
                 <div class="label">ชื่อ</div><div class="value">${card.name}</div>
                 <div class="label">ประเภท</div><div class="value">${card.type}</div>
@@ -38,7 +48,7 @@
                 <div class="label">ความสามารถ</div><div class="value">${card.ability}</div>
                 <div class="label">Raid</div><div class="value">${card["ability-r"]}</div>
                 <div class="label">ทริกเกอร์</div><div class="value">${card.trigger}</div>
-                </div>
+              </div>
             </div>
             <hr>
           `;
