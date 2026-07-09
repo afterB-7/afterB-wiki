@@ -29,8 +29,14 @@ nav:
   - UA Cards DB:
       - Overview: cards/index.md
       - CGH: 
-          - Overview: cards/cgh/cgh.md
+          - All: cards/cgh/cgh.md
           - UA01ST: cards/cgh/UA01ST.md
+          - UA01BT: cards/cgh/UA01BT.md
+      - JJK: 
+          - All: cards/jjk/jjk.md
+          - UA02ST: cards/jjk/UA02ST.md
+          - UA02BT: cards/jjk/UA02BT.md
+          
 #  - About: about.md
 
 markdown_extensions:
@@ -42,3 +48,11 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js
+  - javascripts/card-viewer.js
+
+plugins:
+  - search:
+      enabled: false

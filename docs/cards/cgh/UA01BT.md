@@ -3,9 +3,9 @@ hide:
   - toc
 ---
 
-# Code Geass Starter Deck
+# Code Geass Booster Pack
 
-Card set: **<span id="set-prefix">UA01ST</span>**
+Card set: **<span id="set-prefix">UA01BT</span>**
 Set code: **CGH**
 
 ---

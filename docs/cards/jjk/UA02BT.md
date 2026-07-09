@@ -3,10 +3,10 @@ hide:
   - toc
 ---
 
-# Code Geass Starter Deck
+# Jujutsu Kaisen Booster Pack
 
-Card set: **<span id="set-prefix">UA01ST</span>**
-Set code: **CGH**
+Card set: **<span id="set-prefix">UA02BT</span>**
+Set code: **JJK**
 
 ---
 

@@ -1,6 +1,11 @@
-# Union Arena Wiki — Starter Project
+# afterB Wiki — Starter Project
 
-## What's next (future versions)
+## What's next
 
 - Searchable/filterable card database (JSON/CSV data + a JS table)
-- Community contributions via GitHub pull requests
+
+Union Arena Progress - WIP
+
+Gundam Card Game Progress - TBD
+
+Digimon Card Game Progress - TBD

@@ -2,5 +2,6 @@
 
 ## Sets
 
-- _[CGH](./cgh/cgh.md)_
+- _[CGH - Code Geass](./cgh/cgh.md)_
+- _[JJK - Jujutsu Kaisen](./jjk/jjk.md)_
 ---
