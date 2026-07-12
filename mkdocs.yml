@@ -38,7 +38,16 @@ nav:
           - All: cards/jjk/jjk.md
           - UA02ST: cards/jjk/UA02ST.md
           - UA02BT: cards/jjk/UA02BT.md
+          - UA02NC: cards/jjk/UA02NC.md
+          - EX04BT: cards/jjk/EX04BT.md
+      - HTR: 
+          - All: cards/htr/htr.md
+          - UA03ST: cards/htr/UA03ST.md
+          - UA03BT: cards/htr/UA03BT.md
+          - EX01BT: cards/htr/EX01BT.md
+          - UAPR: cards/htr/UAPR.md
           
+
 #  - About: about.md
 
 markdown_extensions:
