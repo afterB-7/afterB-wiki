@@ -27,6 +27,10 @@ nav:
 #      - How to Play: getting-started/how-to-play.md
   - Union Arena:
       - Overview: cards/index.md
+      - IMC: 
+          - All: cards/imc/imc.md
+          - UA55ST: cards/imc/UA55ST.md
+          - UA55BT: cards/imc/UA55BT.md
       - HTR: 
           - All: cards/htr/htr.md
           - UA03ST: cards/htr/UA03ST.md
@@ -45,10 +49,7 @@ nav:
           - UA01BT: cards/cgh/UA01BT.md
           - EX02BT: cards/cgh/EX02BT.md
           - UAPR: cards/cgh/UAPR.md
-      - IMC: 
-          - All: cards/imc/imc.md
-          - UA55ST: cards/imc/UA55ST.md
-          - UA55BT: cards/imc/UA55BT.md
+
 
 #  - About: about.md
 
