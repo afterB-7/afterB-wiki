@@ -25,28 +25,30 @@ nav:
   - Home: index.md
 #  - Getting Started:
 #      - How to Play: getting-started/how-to-play.md
-#      - Glossary: getting-started/glossary.md
   - Union Arena:
       - Overview: cards/index.md
-      - CGH: 
-          - All: cards/cgh/cgh.md
-          - UA01ST: cards/cgh/UA01ST.md
-          - UA01BT: cards/cgh/UA01BT.md
-          - EX02BT: cards/cgh/EX02BT.md
-          - UAPR: cards/cgh/UAPR.md
+      - HTR: 
+          - All: cards/htr/htr.md
+          - UA03ST: cards/htr/UA03ST.md
+          - UA03BT: cards/htr/UA03BT.md
+          - EX01BT: cards/htr/EX01BT.md
+          - UAPR: cards/htr/UAPR.md      
       - JJK: 
           - All: cards/jjk/jjk.md
           - UA02ST: cards/jjk/UA02ST.md
           - UA02BT: cards/jjk/UA02BT.md
           - UA02NC: cards/jjk/UA02NC.md
           - EX04BT: cards/jjk/EX04BT.md
-      - HTR: 
-          - All: cards/htr/htr.md
-          - UA03ST: cards/htr/UA03ST.md
-          - UA03BT: cards/htr/UA03BT.md
-          - EX01BT: cards/htr/EX01BT.md
-          - UAPR: cards/htr/UAPR.md
-          
+      - CGH: 
+          - All: cards/cgh/cgh.md
+          - UA01ST: cards/cgh/UA01ST.md
+          - UA01BT: cards/cgh/UA01BT.md
+          - EX02BT: cards/cgh/EX02BT.md
+          - UAPR: cards/cgh/UAPR.md
+      - IMC: 
+          - All: cards/imc/imc.md
+          - UA55ST: cards/imc/UA55ST.md
+          - UA55BT: cards/imc/UA55BT.md
 
 #  - About: about.md
 

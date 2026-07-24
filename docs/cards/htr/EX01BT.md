@@ -6,7 +6,7 @@ hide:
 # Hunter x Hunter Booster Pack Vol.2
 
 Card set: **<span id="set-prefix">EX01BT</span>**
-Set code: **CGH**
+Set code: **<CGH>**
 
 ---
 

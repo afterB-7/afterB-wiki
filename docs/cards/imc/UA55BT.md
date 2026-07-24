@@ -3,10 +3,10 @@ hide:
   - toc
 ---
 
-# Hunter x Hunter Starter Deck
+# The idolm@ster Cinderella Girls Booster Pack
 
-Card set: **<span id="set-prefix">UA03ST</span>**
-Set code: **HTR**
+Card set: **<span id="set-prefix">UA55BT</span>**
+Set code: **IMC**
 
 ---
 
